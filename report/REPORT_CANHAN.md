@@ -1,8 +1,8 @@
 # Báo Cáo Cá Nhân — Lab 7: Embedding & Vector Store
 
-**Họ tên:** [Tên sinh viên]
-**Nhóm:** [Tên nhóm]
-**Ngày:** [Ngày nộp]
+**Họ tên:** Đồng Mạnh Hùng
+**Nhóm:** 4aesieunhan
+**Ngày:** 20/09/2026
 
 > **Nộp 1 bản / sinh viên.** Phần nhóm (lựa chọn tài liệu, thiết kế chiến lược, bộ câu hỏi đánh giá, demo) nộp chung 1 bản trong `REPORT_NHOM.md`. Chi tiết thang điểm: `docs/SCORING.md`.
 
@@ -15,29 +15,29 @@
 ### Độ tương tự Cosine (Cosine Similarity) (Bài tập 1.1)
 
 **Độ tương tự cosine cao (High cosine similarity) nghĩa là gì?**
-> *Viết 1-2 câu:*
+> *Viết 1-2 câu:* Độ tương tự cosine cao phản ảnh ai đoạn văn bản có sự tương đồng lớn về mặt ngữ nghĩa.
 
 **Ví dụ có độ tương tự CAO:**
-- Câu A:
-- Câu B:
-- Tại sao tương đồng:
+- Câu A: Khách hàng có thể yêu cầu trả hàng và hoàn tiền trong vòng 15 ngày.
+- Câu B: Thời hạn để người mua gửi yêu cầu hoàn tiền hoặc trả lại hàng là mười lăm ngày.
+- Tại sao tương đồng: Cả hai câu sử dụng từ ngữ và cách diễn đạt khác nhau nhưng đều truyền tải chính xác cùng một quy định và thời hạn trả hàng.
 
 **Ví dụ có độ tương tự THẤP:**
-- Câu A:
-- Câu B:
-- Tại sao khác:
+- Câu A: Hôm nay trời nắng.
+- Câu B: Tôi mệt
+- Tại sao khác: Hai câu này chủ đề khác nhau nên độ tương tự thấp
 
 **Tại sao độ tương tự cosine (cosine similarity) được ưu tiên hơn khoảng cách Euclid (Euclidean distance) cho text embeddings?**
-> *Viết 1-2 câu:*
+> *Viết 1-2 câu:* Cosine similarity chỉ đo góc giữa các vector mà bỏ qua độ dài (magnitude), giúp triệt tiêu ảnh hưởng của độ dài văn bản đến kết quả so khớp. Trong khi đó, khoảng cách Euclid bị ảnh hưởng bởi độ dài vector, dễ khiến hai đoạn văn bản cùng chủ đề nhưng khác độ dài bị đánh giá là xa nhau.
 
 ### Bài toán tính toán Chunking (Bài tập 1.2)
 
 **Tài liệu 10,000 ký tự, chunk_size=500, overlap=50. Bao nhiêu chunks?**
-> *Trình bày phép tính:*
-> *Đáp án:*
+> *Trình bày phép tính:* chunk đầu 500 kí tự, các chunk sau do overlap nên chỉ có 450 kí tự. Số ký tự còn lại cần phân tách cho các chunk sau là 9500. Số chunks là [9500/450] +1 = 23.
+> *Đáp án:* 23
 
 **Nếu độ chồng chéo (overlap) tăng lên 100, số lượng chunk thay đổi thế nào? Tại sao muốn độ chồng chéo nhiều hơn?**
-> *Viết 1-2 câu:*
+> *Viết 1-2 câu:* Khi overlap tăng từ 50 lên 100, số chunks là 25. Người ta muốn tăng overlap để giảm thiểu hiện tượng đứt gãy ngữ cảnh tại ranh giới cắt, giúp các thực thể hoặc câu văn quan trọng nằm ở mép chunk không bị chia cắt làm mất ý nghĩa khi đưa vào mô hình embedding.
 
 ---
 
