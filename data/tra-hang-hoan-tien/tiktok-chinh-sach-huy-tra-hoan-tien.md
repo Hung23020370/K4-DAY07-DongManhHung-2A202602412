@@ -1,12 +1,12 @@
----
-doc_id: "tiktok-chinh-sach-huy-tra-hoan-tien"
-title: "Chinh sach huy don hang tra hang va hoan tien tren TikTok Shop"
-source_url: "https://seller-vn.tiktok.com/university/essay?knowledge_id=6837773789234946"
-retrieved_at: "2026-09-20"
-document_version: "not-stated"
-audience: "buyer"
-category: "return-refund"
-language: "vi"
+﻿---
+doc_id: tiktok-chinh-sach-huy-tra-hoan-tien
+title: Chinh sach huy don hang tra hang va hoan tien tren TikTok Shop
+source_url: https://seller-vn.tiktok.com/university/essay?knowledge_id=6837773789234946&lang=vi-VN
+retrieved_at: 2026-09-20
+document_version: not-stated
+audience: buyer
+category: return-refund
+language: vi
 ---
 
 # Chinh sach huy don hang tra hang va hoan tien tren TikTok Shop
@@ -21,7 +21,7 @@ Chính sách hủy đơn hàng, trả hàng và hoàn tiền của khách hàng 
 
 Tổng quan
 
-Chính sách hủy đơn hàng, trả hàng và hoàn tiền của khách hàng trên TikTok Shop này (sau đây gọi là "Chính sách này") quy định cách thức hoạt động của quy trình hậu mãi đối với các giao dịch trên TikTok Shop (sau đây gọi là "nền tảng"), bao gồm hủy đơn hàng, trả hàng và hoàn tiền.
+Chính sách hủy đơn hàng, trả hàng và hoàn tiền của khách hàng trên TikTok Shop này (sau đây gọi là Chính sách này) quy định cách thức hoạt động của quy trình hậu mãi đối với các giao dịch trên TikTok Shop (sau đây gọi là nền tảng), bao gồm hủy đơn hàng, trả hàng và hoàn tiền.
 
 Nền tảng có thể thực hiện Hành động thực thi như được nêu trong Chính sách này, Chính sách đánh giá hiệu suất của người bán trên TikTok Shop, mọi Chính sách nền tảng khác và Điều khoản dịch vụ dành cho người bán.
 
@@ -37,7 +37,7 @@ Tùy theo trạng thái đơn hàng, người bán, khách hàng hoặc Nền t�
 Lưu ý: Sản phẩm được bán qua đấu giá LIVE áp dụng chính sách Hủy đơn hàng khác. Để biết thêm chi tiết, hãy đọc Chính sách ra giá trên LIVE.
 Người bán hủy đơn hàng
 
-Người bán có thể hủy đơn hàng bất kỳ lúc nào trước khi đơn được đánh dấu là "Đã vận chuyển - Đang vận chuyển". Tuy nhiên, việc này sẽ được tính vào Tỷ lệ hủy do lỗi của người bán (SFCR).
+Người bán có thể hủy đơn hàng bất kỳ lúc nào trước khi đơn được đánh dấu là Đã vận chuyển - Đang vận chuyển. Tuy nhiên, việc này sẽ được tính vào Tỷ lệ hủy do lỗi của người bán (SFCR).
 
 Lưu ý: Người bán không được yêu cầu khách hàng hủy đơn hàng.
 Để biết chi tiết, hãy tham khảo Hủy đơn hàngbài viết.</a>
@@ -93,7 +93,7 @@ Quy trình trả hàng và hoàn tiền
 
 Thời điểm có thể gửi yêu cầu
 
-Khách hàng chỉ có thể gửi yêu cầu trả hàng hoặc hoàn tiền sau khi trạng thái sản phẩm được cập nhật thành "Delivered", và chỉ trong thời hạn quy định, tùy thuộc vào việc sản phẩm có phải là sản phẩm Mall hay không. Để xem đầy đủ danh sách lý do trả hàng của khách hàng, hãy đọc Trả hàng và Hoàn tiềnbài viết</a>.
+Khách hàng chỉ có thể gửi yêu cầu trả hàng hoặc hoàn tiền sau khi trạng thái sản phẩm được cập nhật thành Delivered, và chỉ trong thời hạn quy định, tùy thuộc vào việc sản phẩm có phải là sản phẩm Mall hay không. Để xem đầy đủ danh sách lý do trả hàng của khách hàng, hãy đọc Trả hàng và Hoàn tiềnbài viết</a>.
 
 Người bán đánh giá và đưa ra giải pháp thay thế
 
@@ -135,7 +135,7 @@ Từ chối không hợp lệ
 
 Người bán không được từ chối trả hàng một cách vô lý. Các trường hợp bị cấm bao gồm nhưng không giới hạn ở những trường hợp sau:
 
-Áp dụng sai điều kiện đủ điều kiện trả hàng vì lý do \"Đổi ý\" bằng cách sử dụng các tiêu chí ngoài danh sách không đủ điều kiện của nền tảng (xem Trả hàng do “Đổi ý”bài viết để biết thêm chi tiết</a>), bao gồm cả việc dựa vào các chính sách do người bán tự đặt ra.
+Áp dụng sai điều kiện đủ điều kiện trả hàng vì lý do \Đổi ý\ bằng cách sử dụng các tiêu chí ngoài danh sách không đủ điều kiện của nền tảng (xem Trả hàng do “Đổi ý”bài viết để biết thêm chi tiết</a>), bao gồm cả việc dựa vào các chính sách do người bán tự đặt ra.
 
 Từ chối trả hàng mặc dù:
 Bằng chứng được cung cấp ở giai đoạn gửi yêu cầu là chấp nhận được, hoặc
@@ -183,11 +183,11 @@ Mặc dù chúng tôi không chủ động can thiệp vào các vấn đề sau
 
 Thông tin thêm về dịch vụ xử lý tranh chấp sau bán hàng của nền tảng có trong Nguyên tắc xử lý Khiếu nại sau bán hàng của TikTok Shop.
 
-เนื้อหาด้านบนมีประโยชน์หรือไม่
+Apakah konten di atas berguna?
 
-ก่อนหน้าChính sách Truy cập Tài khoản Trái phép của TikTok Shop Seterusnya Nguyên tắc xử lý Khiếu nại sau bán hàng của TikTok Shop
+SebelumnyaChính sách Truy cập Tài khoản Trái phép của TikTok ShopBerikutnya Nguyên tắc xử lý Khiếu nại sau bán hàng của TikTok Shop
 
-สารบัญ
+Daftar isi
 
 Tổng quan
 

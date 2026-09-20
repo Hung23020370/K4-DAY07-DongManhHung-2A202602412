@@ -1,0 +1,58 @@
+============================================================
+BENCHMARK REPORT - STRATEGY: HeadingChunker
+============================================================
+
+Tong so chunks nap: 268
+Do dai trung binh: 333.81 ky tu
+
+--- 1. DANH GIA 5 BENCHMARK QUERIES ---
+
+[Q1] Người mua có bao lâu để yêu cầu trả hàng/hoàn tiền sau khi đơn giao thành công?
+  Filter: {'audience': 'buyer'} | Score dat duoc: 0/2
+  Ket luan: Gold Doc o rank 1 (tiktok-chinh-sach-huy-tra-hoan-tien) | Dung noi dung chuoi: False
+    Top 1: [0.3071] tiktok-chinh-sach-huy-tra-hoan-tien#31 (doc: tiktok-chinh-sach-huy-tra-hoan-tien) -> "# Chinh sach huy don hang tra hang va hoan tien tren TikTok Shop Từ chối trả hàn..."
+    Top 2: [0.278] shopee-buyer-chinh-sach-tra-hang#66 (doc: shopee-buyer-chinh-sach-tra-hang) -> "# CHINH SACH TRA HANG VA HOAN TIEN SHOPEE Quy định này nhằm ngăn chặn các hành v..."
+    Top 3: [0.2624] tiktok-chinh-sach-huy-tra-hoan-tien#11 (doc: tiktok-chinh-sach-huy-tra-hoan-tien) -> "# Chinh sach huy don hang tra hang va hoan tien tren TikTok Shop Người bán không..."
+
+[Q2] Người mua cần làm gì để gửi yêu cầu trả hàng hoặc hoàn tiền trên Shopee?
+  Filter: {'audience': 'buyer'} | Score dat duoc: 0/2
+  Ket luan: Gold Doc o rank 1 (shopee-buyer-chinh-sach-tra-hang) | Dung noi dung chuoi: False
+    Top 1: [0.2759] shopee-buyer-chinh-sach-tra-hang#43 (doc: shopee-buyer-chinh-sach-tra-hang) -> "# CHINH SACH TRA HANG VA HOAN TIEN SHOPEE 6. YÊU CẦU ĐỐI VỚI SẢN PHẨM HOÀN TRẢ..."
+    Top 2: [0.2524] tiktok-chinh-sach-huy-tra-hoan-tien#12 (doc: tiktok-chinh-sach-huy-tra-hoan-tien) -> "# Chinh sach huy don hang tra hang va hoan tien tren TikTok Shop Hoạt động đáng ..."
+    Top 3: [0.2231] shopee-buyer-chinh-sach-tra-hang#22 (doc: shopee-buyer-chinh-sach-tra-hang) -> "# CHINH SACH TRA HANG VA HOAN TIEN SHOPEE a. Đối với khách hàng thân thiết hạng ..."
+
+[Q3] Trong trường hợp được hoàn tiền ngay, cần làm gì nếu không đồng ý với quyết định?
+  Filter: {'audience': 'seller'} | Score dat duoc: 1/2
+  Ket luan: Gold Doc o rank 2 (tiktok-seller-quy-trinh-xet-duyet-tra-hang) | Dung noi dung chuoi: True
+    Top 1: [0.3232] tiktok-seller-ty-le-tra-hang-loi#2 (doc: tiktok-seller-ty-le-tra-hang-loi) -> "# Quy dinh ty le tra hang hoan tien do loi cua Nguoi ban Trả hàng do sản phẩm bị..."
+    Top 2: [0.2957] tiktok-seller-quy-trinh-xet-duyet-tra-hang#5 (doc: tiktok-seller-quy-trinh-xet-duyet-tra-hang) -> "# Quy trinh va thoi gian phan hoi yeu cau tra hang cho Nguoi ban TikTok Shop Nền..."
+    Top 3: [0.2599] tiktok-seller-phi-van-chuyen-tra-hang#6 (doc: tiktok-seller-phi-van-chuyen-tra-hang) -> "# Quy dinh phi van chuyen tra hang chieu ve Khách hàng có thể sử dụng bất kỳ đơn..."
+
+[Q4] Chính sách nào áp dụng cho sản phẩm thuộc Shopee Mall khi yêu cầu trả hàng/hoàn tiền?
+  Filter: {'audience': 'buyer'} | Score dat duoc: 0/2
+  Ket luan: Gold Doc o rank 1 (shopee-buyer-chinh-sach-tra-hang) | Dung noi dung chuoi: False
+    Top 1: [0.2406] shopee-buyer-chinh-sach-tra-hang#0 (doc: shopee-buyer-chinh-sach-tra-hang) -> "# CHINH SACH TRA HANG VA HOAN TIEN SHOPEE CHÍNH SÁCH TRẢ HÀNG VÀ HOÀN TIỀN | Sho..."
+    Top 2: [0.2172] shopee-buyer-quy-dinh-chung-tra-hang#4 (doc: shopee-buyer-quy-dinh-chung-tra-hang) -> "# Nhung quy dinh chung ve Tra hang va Hoan tien cua Shopee Yêu cầu Trả hàng/Hoàn..."
+    Top 3: [0.2151] shopee-buyer-quy-dinh-chung-tra-hang#13 (doc: shopee-buyer-quy-dinh-chung-tra-hang) -> "# Nhung quy dinh chung ve Tra hang va Hoan tien cua Shopee Hoàn mã nếu lý do là ..."
+
+[Q5] Điều kiện nào cần đáp ứng để sản phẩm được bảo hành miễn phí?
+  Filter: {'audience': 'buyer'} | Score dat duoc: 0/2
+  Ket luan: Gold Doc o rank 2 (shopee-buyer-chinh-sach-tra-hang) | Dung noi dung chuoi: False
+    Top 1: [0.3189] tiktok-chinh-sach-huy-tra-hoan-tien#14 (doc: tiktok-chinh-sach-huy-tra-hoan-tien) -> "# Chinh sach huy don hang tra hang va hoan tien tren TikTok Shop Vấn đề liên qua..."
+    Top 2: [0.3008] shopee-buyer-chinh-sach-tra-hang#41 (doc: shopee-buyer-chinh-sach-tra-hang) -> "# CHINH SACH TRA HANG VA HOAN TIEN SHOPEE Người Bán cần gửi phản hồi trong vòng ..."
+    Top 3: [0.2551] shopee-buyer-chinh-sach-tra-hang#78 (doc: shopee-buyer-chinh-sach-tra-hang) -> "# CHINH SACH TRA HANG VA HOAN TIEN SHOPEE 12.2. Chính Sách Trả Hàng và Hoàn Tiền..."
+
+=> TONG DIEM RETRIEVAL: 1/10
+
+--- 2. KET QUA A/B TEST (METADATA FILTERING TREN Q1) ---
+Query: "Người mua có bao lâu để yêu cầu trả hàng/hoàn tiền sau khi đơn giao thành công?"
+
+[Lan A - CO FILTER (audience: buyer)]:
+  Top 1: tiktok-chinh-sach-huy-tra-hoan-tien#31 (audience: buyer)
+  Top 2: shopee-buyer-chinh-sach-tra-hang#66 (audience: buyer)
+  Top 3: tiktok-chinh-sach-huy-tra-hoan-tien#11 (audience: buyer)
+
+[Lan B - KHONG FILTER]:
+  Top 1: tiktok-chinh-sach-huy-tra-hoan-tien#31 (audience: buyer)
+  Top 2: tiktok-seller-phi-van-chuyen-tra-hang#8 (audience: seller)
+  Top 3: shopee-buyer-chinh-sach-tra-hang#66 (audience: buyer)

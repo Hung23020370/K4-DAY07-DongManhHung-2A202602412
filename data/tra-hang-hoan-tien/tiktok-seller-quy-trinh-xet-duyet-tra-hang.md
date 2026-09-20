@@ -1,15 +1,15 @@
----
-doc_id: "tiktok-seller-thoi-han-xet-duyet-tra-hang"
-title: "Quy trinh va thoi gian phan hoi yeu cau tra hang cho Nguoi ban"
-source_url: "https://seller-vn.tiktok.com/university/essay?knowledge_id=1766935302801169"
-retrieved_at: "2026-09-20"
-document_version: "not-stated"
-audience: "seller"
-category: "return-refund"
-language: "vi"
+﻿---
+doc_id: tiktok-seller-quy-trinh-xet-duyet-tra-hang
+title: Quy trinh va thoi gian phan hoi yeu cau tra hang cho Nguoi ban TikTok Shop
+source_url: https://seller-vn.tiktok.com/university/essay?knowledge_id=1766935302801169&lang=vi-VN
+retrieved_at: 2026-09-20
+document_version: not-stated
+audience: seller
+category: return-refund
+language: vi
 ---
 
-# Quy trinh va thoi gian phan hoi yeu cau tra hang cho Nguoi ban
+# Quy trinh va thoi gian phan hoi yeu cau tra hang cho Nguoi ban TikTok Shop
 
 Trả hàng và Hoàn tiền
 
@@ -97,17 +97,17 @@ Người bán có thể xem xét tình trạng hàng trả về. Họ có thể 
 Trong vòng 14 ngày dương lịch sau khi khách hàng đã tải lên thông tin vận chuyển hàng trả về HOẶC 2 ngày dương lịch sau khi hàng trả được giao, tùy điều kiện nào đến sớm hơn. Nếu không, yêu cầu sẽ được tự động chấp thuận.
 
 Kích hoạt Công cụ phê duyệt tự động
-Để giúp người bán nâng cao trải nghiệm khách hàng, chúng tôi có thể kích hoạt "Công cụ phê duyệt tự động" trong một số trường hợp (như bên dưới). Công cụ này giúp tăng tốc độ phê duyệt các yêu cầu trả hàng/hoàn tiền.Cách thức hoạt động?
+Để giúp người bán nâng cao trải nghiệm khách hàng, chúng tôi có thể kích hoạt Công cụ phê duyệt tự động trong một số trường hợp (như bên dưới). Công cụ này giúp tăng tốc độ phê duyệt các yêu cầu trả hàng/hoàn tiền.Cách thức hoạt động?
 Nếu người bán không xem xét >90% các yêu cầu trả hàng và hoàn tiền đã nhận đúng hạn trong 1 tháng, công cụ phê duyệt tự động sẽ được kích hoạt.
 
 Chỉ những yêu cầu đáp ứng các tiêu chí sau sẽ được phê duyệt tự động bằng công cụ này:
 Tổng giá trị của tất cả sản phẩm trong yêu cầu < 790.000VND ( Có thể điều chỉnh) (Số tiền thực tế có thể thay đổi theo biến động tỷ giá).
 
-Bất kỳ lý do nào ngoại trừ "Nghi ngờ hàng giả"
+Bất kỳ lý do nào ngoại trừ Nghi ngờ hàng giả
 
 Khách hàng chỉ có thể kích hoạt công cụ này tối đa 3 lần mỗi tháng.
 
-Các yêu cầu được công cụ phê duyệt sẽ được gắn nhãn "Phê duyệt tự động theo quy tắc người bán" trên trang Quản lý Trả hàng/Hoàn tiền.
+Các yêu cầu được công cụ phê duyệt sẽ được gắn nhãn Phê duyệt tự động theo quy tắc người bán trên trang Quản lý Trả hàng/Hoàn tiền.
 
 Công cụ sẽ được kích hoạt trong tối thiểu 15 ngày theo lịch, nhưng có thể tắt sau 15 ngày theo lịch thông qua trang Cài đặt hoàn thiện .
 
@@ -259,9 +259,9 @@ Bạn có bằng chứng rằng sản phẩm đã đến đúng địa chỉ nh�
 Sản phẩm đã được vận chuyển, vui lòng chờ kiện hàng đến
 Bạn có bằng chứng rằng sản phẩm đã được gửi đi để giao hàng.
 
-"Đổi ý"
+Đổi ý
 Không đủ điều kiện trả hàng (ví dụ: đã sử dụng hoặc bị hỏng)
-Hình ảnh sản phẩm do khách hàng gửi cho thấy dấu hiệu đã sử dụng/mòn (đối với "Đổi ý" yêu cầu sản phẩm phải còn niêm phong hoặc nguyên trạng)
+Hình ảnh sản phẩm do khách hàng gửi cho thấy dấu hiệu đã sử dụng/mòn (đối với Đổi ý yêu cầu sản phẩm phải còn niêm phong hoặc nguyên trạng)
 Video hoặc hình ảnh đóng gói
 
 Bước 3: Khách hàng trả hàng - xem xét sản phẩm
@@ -276,7 +276,7 @@ Sản phẩm nhận được không phải là sản phẩm khách hàng đã y�
 
 Video/Hình ảnh đóng gói
 
-Sản phẩm đã sử dụng và trả hàng trong tình trạng không thể bán lạiSản phẩm nhận được có dấu hiệu đã sử dụng/mòn (đối với "Đổi ý" yêu cầu sản phẩm phải còn niêm phong hoặc nguyên trạng)
+Sản phẩm đã sử dụng và trả hàng trong tình trạng không thể bán lạiSản phẩm nhận được có dấu hiệu đã sử dụng/mòn (đối với Đổi ý yêu cầu sản phẩm phải còn niêm phong hoặc nguyên trạng)
 
 Sản phẩm bị hỏng hoặc đã sử dụng
 Sản phẩm có dấu hiệu hỏng hóc hoặc đã sử dụng rõ ràng. Đảm bảo bạn có bằng chứng rằng sản phẩm không bị hỏng khi bạn đóng gói.
@@ -287,12 +287,12 @@ Sản phẩm bị thiếu linh kiện. Đảm bảo bạn có bằng chứng r�
 Bạn đã đạt được thỏa thuận với khách hàng
 Bạn có bằng chứng (ví dụ: ảnh chụp màn hình) rằng bạn đã trao đổi vấn đề với khách hàng và đi đến thỏa thuận.Ảnh chụp màn hình cuộc trò chuyện
 
-Nếu bạn không nhận được sản phẩm sau khi trạng thái trả hàng đã được chuyển sang "Đã giao" hoặc trong vòng 14 ngày sau khi người mua tải lên dữ liệu theo dõi (đối với trả hàng tự sắp xếp), bạn có thể chọn các lý do sau:
+Nếu bạn không nhận được sản phẩm sau khi trạng thái trả hàng đã được chuyển sang Đã giao hoặc trong vòng 14 ngày sau khi người mua tải lên dữ liệu theo dõi (đối với trả hàng tự sắp xếp), bạn có thể chọn các lý do sau:
 
 Lý do từ chốiKhi nào bạn có thể chọn lý do này?Yêu cầu bằng chứng
 
 Tôi chưa nhận được kiện hàng
-Bạn chưa nhận được sản phẩm trả hàng sau khi trạng thái trả hàng đã chuyển sang "Đã giao" hoặc trong vòng 14 ngày kể từ khi người mua tải lên dữ liệu theo dõi (đối với trả hàng tự sắp xếp).Không có
+Bạn chưa nhận được sản phẩm trả hàng sau khi trạng thái trả hàng đã chuyển sang Đã giao hoặc trong vòng 14 ngày kể từ khi người mua tải lên dữ liệu theo dõi (đối với trả hàng tự sắp xếp).Không có
 
 Bước 4: Quy trình Kháng nghị của Người bán
 Bạn có thể muốn gửi kháng nghị trong các trường hợp sau:
@@ -317,7 +317,7 @@ Sản phẩm nhận được không phải là sản phẩm khách hàng đã y�
 Video/Hình ảnh đóng gói*
 Video đóng gói là bắt buộc nếu video mở hộp không đủ để bác bỏ nhận của người mua.
 
-Sản phẩm đã sử dụng và trả hàng trong tình trạng không thể bán lạiSản phẩm nhận được có dấu hiệu đã sử dụng/mòn (đối với "Đổi ý" yêu cầu sản phẩm phải còn niêm phong hoặc nguyên trạng)
+Sản phẩm đã sử dụng và trả hàng trong tình trạng không thể bán lạiSản phẩm nhận được có dấu hiệu đã sử dụng/mòn (đối với Đổi ý yêu cầu sản phẩm phải còn niêm phong hoặc nguyên trạng)
 
 Sản phẩm bị hỏng hoặc đã sử dụng
 Sản phẩm có dấu hiệu hỏng hóc hoặc đã sử dụng rõ ràng. Đảm bảo bạn có bằng chứng rằng sản phẩm không bị hỏng khi bạn đóng gói.
@@ -451,11 +451,11 @@ Trong trường hợp nào tôi phải chịu chi phí vận chuyển trả hàn
 
 Nếu lý do của khách hàng ảnh hưởng đến Tỉ lệ trả hàng và hoàn tiền do lỗi của Người bán, bạn sẽ phải chịu chi phí vận chuyển của khách hàng.
 
-Adakah kandungan di atas berguna?
+เนื้อหาด้านบนมีประโยชน์หรือไม่
 
-Seterusnya Trả hàng do “Đổi ý”
+Tiếp theo Trả hàng do “Đổi ý”
 
-Jadual kandungan
+สารบัญ
 
 Tổng quan về Thời gian & Quy trình Trả hàng/Hoàn tiền
 
